@@ -1,32 +1,45 @@
-# React + Vite + Tailwind Starter 🚀
+# dentist_vitrine
 
-A minimal starter template for building React apps with **Vite** and **TailwindCSS**. Perfect for quickly spinning up projects without worrying about setup.  
+> Showcase website for a doctor practice.
 
----
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+## Overview
+
+Showcase website for a dentist practice.
+
+## Tech Stack
+
+Web
 
 ## Features
 
-- ✅ React 
-- ✅ Vite bundler (super fast!)
-- ✅ TailwindCSS for styling
-- ✅ Minimal and ready-to-use
-- ✅ Dark mode support out of the box
-
----
+- Services presentation
+- Contact information
 
 ## Getting Started
 
-### 1. Clone the repo
+### Prerequisites
+
+Make sure you have the tools required for this stack installed (e.g. Python 3.10+, Node.js 18+, or Android Studio).
+
+### Installation & Usage
 
 ```bash
-git clone https://github.com/yourusername/react-vite-tailwind-starter.git
-cd react-vite-tailwind-skeleton
-2. Install dependencies
-npm install
-3. Start development server
-npm run dev
-Open http://localhost:5173 in your browser.
+git clone https://github.com/<your-username>/docteur_vitrine.git
+cd dentist_vitrine
 ```
+Open `index.html` in your browser. No build step required.
 
-Build for Production
-npm run build
+## Contributing
+
+Contributions are welcome. Fork the repo, create a feature branch, and open a pull request.
+
+## License
+
+Distributed under the MIT License (change as needed).
+
+## Author
+
+**Louai**: [GitHub](https://github.com/<your-username>)
